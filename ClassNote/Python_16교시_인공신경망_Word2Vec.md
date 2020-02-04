@@ -84,7 +84,11 @@ EX) 알파고의 경우도 학습 데이터량이 어마어마하게 많다.
 
 <BR>
 
-# [Word2Vec]([https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/](https://ratsgo.github.io/from frequency to semantics/2017/03/30/word2vec/))
+
+
+# Word2Vec
+
+[Word2Vec]([https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/](https://ratsgo.github.io/from frequency to semantics/2017/03/30/word2vec/))
 
 - word2vec 의 모든 'w' 값은 공유한다.
 - w 조정이 많이 되야 학습이 잘 되어 있다고 본다.
@@ -104,4 +108,8 @@ EX) 알파고의 경우도 학습 데이터량이 어마어마하게 많다.
 ### Skip-Gram
 
 ![skip-gram](https://user-images.githubusercontent.com/57430754/73716052-4f850300-4759-11ea-86ee-c521445c005c.png)
+
+<BR>
+
+# [한국어 임베딩]([https://ratsgo.github.io/natural%20language%20processing/2019/09/12/embedding/](https://ratsgo.github.io/natural language processing/2019/09/12/embedding/))
 
