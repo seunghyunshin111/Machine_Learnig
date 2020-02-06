@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>Page Title</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+
+<body>
+	<div data-role = "page">
+		<div data-role = "header">
+			<p>Header</p>
+		</div>
+		<div data-role = "main">
+			<ul data-role = "listview">
+				<li>Chrome</li>
+				<li>IE</li>
+				<li>firefox</li>
+				<li>Opera</li>
+		</div>
+		<div data-role = "footer">
+			<p>Tail</p>
+		</div>
+	</div>
+</body>
+</html>
+
+
+<!-- # jQuery mobile만 알아듣는 명령(나머지는 그냥 무시, 에러가 안 남)
+# 순서를 바꾸면 안 됨! 
+# 1 body == 1 page. -->
+
+<!-- # 확장형! 화면 조정 해도 자동으로 맞춰 줌! -->
