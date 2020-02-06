@@ -13,7 +13,7 @@ def register_dic(words):
     tmp = ["@"]
     for i in words:
         word = i[0]
-        if word == "" or word == "\r\n" or word == "\n": continue
+        if word == "" or word == "\n" or word == "\n": continue
         tmp.append(word)
         if len(tmp) < 3: continue
         if len(tmp) > 3: tmp = tmp[1:]
@@ -55,13 +55,14 @@ def make_sentence(head):
         "q": ret
     })
     # 네이버 맞춤법 검사기를 사용합니다.
-    data = urllib.request.urlopen("https://m.search.naver.com/p/csearch/dcontent/spellchecker.nhn?" + params)
-    data = data.read().decode("utf-8")[1:-2]
-    data = json.loads(data)
-    data = data["message"]["result"]["html"]
-    data = soup = BeautifulSoup(data, "html.parser").getText()
+    #data = urllib.request.urlopen("https://m.search.naver.com/p/csearch/dcontent/spellchecker.nhn?" + params)
+    #data = data.read().decode("utf-8")[1:-2]
+    #data = json.loads(data)
+    #data = data["message"]["result"]["html"]
+    #data = soup = BeautifulSoup(data, "html.parser").getText()
     # 리턴
     return ret
+
 def word_choice(sel):
     keys = sel.keys()
     return random.choice(list(keys))
