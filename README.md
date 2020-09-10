@@ -180,7 +180,7 @@ Learning = representation + evaluation + optimization
 
 <br>
 
-입력 데이터를 구별해낼 수 있는 특징들을 정략화
+입력 데이터를 구별해낼 수 있는 특징들을 정량화
 
 **'예측변수', '설명변수', '독립변수' ** in 통계학
 
