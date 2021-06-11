@@ -2,6 +2,13 @@
 
 <br>
 
+## Stanford University, Machine Learning, Andrew ng, Coursera
+
+[Coursera P2MY78GE3K7D.pdf](https://github.com/seunghyunshin111/Statistics_univ/files/6636082/Coursera.P2MY78GE3K7D.pdf)
+
+
+<br>
+
 - ## Machine Learning?
 
   - 데이터를 설명할 수 있는 함수를 찾는 것
