@@ -4,7 +4,9 @@
 
 ## Stanford University, Machine Learning, Andrew ng, Coursera
 
-[Coursera P2MY78GE3K7D.pdf](https://github.com/seunghyunshin111/Statistics_univ/files/6636082/Coursera.P2MY78GE3K7D.pdf)
+
+![Coursera P2MY78GE3K7D](https://user-images.githubusercontent.com/57430754/121636577-0e2a0380-cac3-11eb-8554-a84673aa7b2b.jpg)
+
 
 
 <br>
